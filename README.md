@@ -1,9 +1,18 @@
 # Experiment-18
 
+## AIM
+To learn queue in c++.
+
+## Poblem Statement
+Write a program to dequeue & enqueue in c++.
+
+# Theory
+A queue is a way to arrange items so that the first item you put in is the first one you take out, which is known as first-in, first-out (FIFO). You place new items at the back of the queue and remove items from the front. Queues are useful in everyday situations, like waiting in line at a store or managing tasks in a computer program. They have basic actions, such as adding an item (called enqueue) and removing an item (called dequeue). You can create queues using lists or other special structures, which make it easy to add and remove items quickly.
+
 ## Program Codes
 ```javascript
-// Mohit Singh Rawat
-//23070123086
+// Sharvari Murade
+//23070123088
 #include <iostream>
 using namespace std;
 #define size 5
@@ -74,3 +83,7 @@ int main(){
 
 ## Program Output 
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/d5cf660d-8709-4fd7-a081-5bf1397ca2cc">
+
+## Conclusion 
+In summary, queues are a simple and effective way to manage items in the order they arrive. Their first-in, first-out structure makes them suitable for various real-life situations and computer applications, allowing for efficient organization and quick processing of tasks.
+
